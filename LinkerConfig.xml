@@ -1,5 +1,0 @@
-﻿<linker>
-	<assembly fullname="System.Core">
-		<type fullname="System.Linq.Enumerable" preserve="methods" />
-	</assembly>
-</linker>
